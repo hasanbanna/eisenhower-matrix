@@ -2,12 +2,16 @@
 
 Eisenhower decision matrix (aka Covey matrix) is a method of prioritizing your tasks on the basis of their urgency/importance.
 
-The purpose of this matrix is to generate an ordered list that can be further processed with your choice of todo application.
+I wanted to experiment with this matrix with my current workflow but most of the implementations for this matrix out there build a whole todo app around it. So I decided to create this interactive matrix that generates an ordered list which can be further processed with your choice of todo app.
 
 ## Usage
 
+[try it](https://eisenhower-matrix.hasanbanna1.repl.co/) 
+
 ```bash
-git clone https://github.com/hasanbanna/eisenhower-matrix.git && cd eisenhower-matrix
+git clone https://github.com/hasanbanna/eisenhower-matrix.git
+cd eisenhower-matrix
+npm install
 npm run serve
 ```
 
